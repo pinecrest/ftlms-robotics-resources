@@ -10,3 +10,4 @@ This repository contains a number of different resources for teams:
 
 Any code samples contained within are for educational purposes and are either shared under an appropriate license or released under the MIT license for the benefit of all FIRST Lego League Teams.
 
+Our teams this year are 6th, 7th, and 8th grade students at [Pine Crest School](https://www.pinecrest.edu)
