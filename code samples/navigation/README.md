@@ -4,4 +4,4 @@ Coach-contributed examples of LEGO EV3 MicroPython code. These examples are avai
 
 ---
 
-All code written by @smtibor or @kellypared unless otherwise noted. 
+All code written by [@seantibor](https://github.com/seantibor) or [@kellypared](https://github.com/kellypared) unless otherwise noted. 
